@@ -34,3 +34,8 @@ build/
 
 #NDK
 obj/
+
+#errors
+app/hs_err*
+hs_err*
+
